@@ -1,7 +1,7 @@
 ### Hola 👋, Soy Diego Marmolejo
 #### Desarrollador FullStack
 <h1 align="center">
- <img src="https://www.facebook.com/photo/?fbid=3147559272234668&set=a.1433517880305491" />
+ <img src="Negro y Blanco con Formas y Elementos Gráficos Banner para YouTube.png" />
 </h1>
 Soy Desarrollador fullstack tengo conocimientos en los siguientes lenguajes y framework: HTML, CSS, Javascript, PHP, C#, C++, Python, NodeJS, React, Angular, Java, django y en base de datos como: MySQL, SQL.
 
