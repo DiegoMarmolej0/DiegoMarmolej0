@@ -1,5 +1,8 @@
 ### Hola 👋, Soy Diego Marmolejo
 #### Desarrollador FullStack
+<h1 align="center">
+ <img src="https://www.facebook.com/photo/?fbid=3147559272234668&set=a.1433517880305491" />
+</h1>
 Soy Desarrollador fullstack tengo conocimientos en los siguientes lenguajes y framework: HTML, CSS, Javascript, PHP, C#, C++, Python, NodeJS, React, Angular, Java, django y en base de datos como: MySQL, SQL.
 
 servicios en la nube: Azure, AWS, Google Cloud y en una plataforma para desarrollo de aplicaciones web y móviles que es firebase, soy ethical hacking, próximamente voy a empezar un bootcamp de diseño UX/UI
