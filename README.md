@@ -1,7 +1,7 @@
 ### Hola 👋, Soy Diego Marmolejo
 #### Desarrollador de Software 
 <h1 align="center">
- <img src="Negro y Blanco con Formas y Elementos Gráficos Banner para YouTube.png" />
+ <img src="https://drive.google.com/file/d/1TiFn38lbKOqTJ4OLzJ1YOXbUNvJ2bkCh/view?usp=drive_link" />
 </h1>
 Soy Desarrollador de Software tengo conocimientos en los siguientes lenguajes y framework: HTML, CSS, Javascript, PHP, C#, C++, Python, NodeJS, React, Angular, Java, django y en base de datos como: MySQL, SQL.
 
