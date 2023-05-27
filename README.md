@@ -5,7 +5,7 @@
 </h1>
 Soy Diego Marmolejo, desarrollador de software, este año decidí crear mi marca personal y empresa (Demarsoft) que me va a ayudar en mi profesión de desarrollador de software, soy Ex tripulante de misión Tic 2022 del Ministerio Tic Colombia y engresado de Oracle Next Education (ONE) de Oracle
 
-
+<br>
 
 <p align="left">
 <a href="https://twitter.com/diegomarmolej0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="diegomarmolej0" height="30" width="40" /></a>
