@@ -1,7 +1,7 @@
 ### Hola 👋, Soy Diego Marmolejo
 #### Desarrollador de Software 
 <h1 align="center">
- <img src="https://drive.google.com/file/d/1TiFn38lbKOqTJ4OLzJ1YOXbUNvJ2bkCh/view?usp=drive_link" />
+ <img src="https://github.com/DiegoMarmolej0/DiegoMarmolej0/blob/main/linkedin_banner_image_2.png" />
 </h1>
 Soy Desarrollador de Software tengo conocimientos en los siguientes lenguajes y framework: HTML, CSS, Javascript, PHP, C#, C++, Python, NodeJS, React, Angular, Java, django y en base de datos como: MySQL, SQL.
 
