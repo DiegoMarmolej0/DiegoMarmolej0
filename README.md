@@ -3,9 +3,7 @@
 <h1 align="center">
  <img src="https://github.com/DiegoMarmolej0/DiegoMarmolej0/blob/main/facebook_cover_photo_1.png" />
 </h1>
-Soy Desarrollador de Software tengo conocimientos en los siguientes lenguajes y framework: HTML, CSS, Javascript, PHP, C#, C++, Python, NodeJS, React, Angular, Java, django y en base de datos como: MySQL, SQL.
-
-servicios en la nube: Azure, AWS, Google Cloud y en una plataforma para desarrollo de aplicaciones web y móviles que es firebase, soy ethical hacking, próximamente voy a empezar un bootcamp de diseño UX/UI
+Soy Diego Marmolejo, desarrollador de software, este año decidí crear mi marca personal y empresa (Demarsoft) que me va a ayudar en mi profesión de desarrollador de software, soy Ex tripulante de misión Tic 2022 del Ministerio Tic Colombia y engresado de Oracle Next Education (ONE) de Oracle
 
 
 
